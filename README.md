@@ -7,6 +7,8 @@ Final-Group-Report: Our final report
 
 Final-Group-Visualization: Our slides for final presentation
 
-Proposal: Proposal
+Group-Proposal: Proposal
 
-Code: All of code is inclued in code.py
+Code: All of code is inclued in Final Project.py
+
+Other three files are our individual final reports
