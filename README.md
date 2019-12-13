@@ -11,4 +11,3 @@ Group-Proposal: Proposal
 
 Code: All of code is inclued in Final Project.py
 
-Other three files are our individual final reports
